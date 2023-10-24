@@ -581,13 +581,11 @@ body{
     .modal-bottom:focus{
         background-color: #404bbf;
         border: none;
+        fill: #ffffff;
     }
     
     .bottom-modal{
         transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     }
     
-    .bottom-modal:hover,
-    .bottom-modal:focus{
-        fill: #ffffff;
-    }        
+      
